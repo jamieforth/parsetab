@@ -1,0 +1,41 @@
+{
+  "name": "parsetab",
+  "version": "0.0.1",
+  "description": " TabCode command-line and browser processing.",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./parser": "./src/parser/parser.js",
+    "./parser/*": "./src/parser/*.js",
+    "./utils/*": "./src/utils/*.js"
+  },
+  "bin": {
+    "parsetab": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "build": "node build/config.js"
+  },
+  "keywords": [
+    "TabCode"
+  ],
+  "author": "Jamie Forth",
+  "contributors": [
+    "Tim Crawford",
+    "David Lewis"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "devDependencies": {
+    "@eslint/js": "^9.4.0",
+    "@stylistic/eslint-plugin": "^2.1.0",
+    "esbuild": "0.21.4",
+    "esbuild-plugin-clean": "^1.0.1",
+    "eslint": "^9.4.0",
+    "globals": "^15.4.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "fast-xml-parser": "^4.4.0"
+  }
+}
