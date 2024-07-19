@@ -1,0 +1,2101 @@
+[
+  {
+    "code": "{<rules>\n    <title>3. Pompernickell</title>\n    <notation>french</notation>\n    <pitch>67</pitch>\n    <tuning>(-5 -5 -4 -5 -5)</tuning>\n</rules>}",
+    "fType": "Ruleset",
+    "rules": {
+      "notation": "french",
+      "pitch": 67,
+      "title": "3. pompernickell",
+      "tuning": "(-5 -5 -4 -5 -5)"
+    }
+  },
+  {
+    "code": "{ Converted to TabCode .tc by luteconv 1.4.8 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "{ encoding-date 2023-12-08 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "{ 3. Pompernickell }",
+    "tType": "Comment"
+  },
+  {
+    "code": "{ CH-Bu F.IX.70, p. 275 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "{ Stave 1 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "{ Bar 1 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 1,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "code": "M(C/)",
+    "tType": "Metre",
+    "components": [
+      "C/"
+    ],
+    "vertical": false
+  },
+  {
+    "tType": "Chord",
+    "duration": {
+      "code": "E",
+      "tType": "Duration"
+    },
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "f1",
+          "tType": "Pitch",
+          "fret": "f",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": {
+      "code": "E",
+      "tType": "Duration"
+    },
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d1",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a4",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 4
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 2 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 2,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "tType": "Chord",
+    "duration": {
+      "code": "E",
+      "tType": "Duration"
+    },
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "f1",
+          "tType": "Pitch",
+          "fret": "f",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": {
+      "code": "E",
+      "tType": "Duration"
+    },
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d1",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a4",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 4
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 3 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 3,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d1",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 4 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 4,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a4",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 4
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d1",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": {
+      "code": "Q",
+      "tType": "Duration"
+    },
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d3",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 3
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a4",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 4
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 5 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "||",
+    "tType": "Barline",
+    "barNum": 5,
+    "doubleBar": true,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d1",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "f1",
+          "tType": "Pitch",
+          "fret": "f",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 6 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 6,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "code": "{^}",
+    "tType": "SystemBreak",
+    "sysNum": 1
+  },
+  {
+    "code": "{ Stave 2 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "{ Bar 6 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 7,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c2",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 2
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d3",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 3
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c4",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 4
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c2",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 2
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d3",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 3
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d3",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 3
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a4",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 4
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 7 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 8,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d1",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "f1",
+          "tType": "Pitch",
+          "fret": "f",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 8 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 9,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c2",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 2
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d3",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 3
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c4",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 4
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c2",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 2
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d3",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 3
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d3",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 3
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a4",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 4
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 9 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 10,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d1",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 10 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 11,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "tType": "Chord",
+    "duration": {
+      "code": "E",
+      "tType": "Duration"
+    },
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "f1",
+          "tType": "Pitch",
+          "fret": "f",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": {
+      "code": "E",
+      "tType": "Duration"
+    },
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d1",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a4",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 4
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 11 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 12,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "code": "{^}",
+    "tType": "SystemBreak",
+    "sysNum": 2
+  },
+  {
+    "code": "{ Stave 3 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "{ Bar 11 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 13,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d1",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 12 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 14,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "tType": "Chord",
+    "duration": {
+      "code": "E",
+      "tType": "Duration"
+    },
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "f1",
+          "tType": "Pitch",
+          "fret": "f",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": {
+      "code": "E",
+      "tType": "Duration"
+    },
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d1",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d1",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 13 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 15,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "tType": "Chord",
+    "duration": {
+      "code": "E",
+      "tType": "Duration"
+    },
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c1",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 1
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a4",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 4
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": {
+      "code": "E",
+      "tType": "Duration"
+    },
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c2",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 2
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a5",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 5
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c2",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 2
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 14 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 16,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d3",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 3
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a4",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 4
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "c2",
+          "tType": "Pitch",
+          "fret": "c",
+          "course": 2
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": false,
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a1",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 1
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "tType": "Chord",
+    "duration": {
+      "code": "F",
+      "tType": "Duration"
+    },
+    "mainCourses": [
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d2",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 2
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "d3",
+          "tType": "Pitch",
+          "fret": "d",
+          "course": 3
+        }
+      },
+      {
+        "tType": "TabNote",
+        "pitch": {
+          "code": "a4",
+          "tType": "Pitch",
+          "fret": "a",
+          "course": 4
+        }
+      }
+    ],
+    "bassCourses": []
+  },
+  {
+    "code": "{ Bar 15 }",
+    "tType": "Comment"
+  },
+  {
+    "code": "|",
+    "tType": "Barline",
+    "barNum": 17,
+    "doubleBar": false,
+    "lRepeat": false,
+    "rRepeat": false,
+    "dashed": false,
+    "nonCounting": false,
+    "midDots": false
+  }
+]
