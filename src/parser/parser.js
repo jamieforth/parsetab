@@ -168,7 +168,9 @@ function flushContext(context) {
       newEvent = new Rest(context.curRhythm);
       break;
   }
-  context.prevRhythm = context.curRhythm;
+  if (context.curRhythm) {
+    context.prevRhythm = context.curRhythm;
+  }
   context.curRhythm = false;
 
   return newEvent;
