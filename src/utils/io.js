@@ -1,6 +1,7 @@
+import { existsSync } from 'node:fs';
 import { access, readFile } from 'node:fs/promises';
 
-export async function validateInput(files) {
+export function validateInput(files) {
   if (files == '-') {
     if (process.stdin.readable) {
       return true;
@@ -12,7 +13,7 @@ export async function validateInput(files) {
   files instanceof Array ? files : files = [files];
   try {
     files.forEach((fname) => {
-      if (!access(fname)) {
+      if (!existsSync(fname)) {
         throw new Error(`File ${fname} does not exist.`);
       }
     });
@@ -28,7 +29,7 @@ export function validateOutput(file, overwrite) {
     return;
   }
   try {
-    if (!access(file)) {
+    if (!existsSync(file)) {
       return;
     }
     if (overwrite) {
